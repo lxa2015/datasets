@@ -1,0 +1,1978 @@
+NULL 442
+e    165
+s    129
+a    91
+nt   78
+er   76
+es   76
+r    59
+ent  51
+é    43
+t    41
+ait  40
+ant  38
+és   35
+it   34
+ée   33
+4    32
+on   32
+i    31
+5    28
+7    28
+ient 28
+ées  27
+0    26
+6    26
+n    26
+2    24
+3    24
+1    23
+que  23
+ion  22
+te   21
+tion 21
+ie   20
+ons  20
+8    19
+ment 19
+9    18
+ii   17
+m    17
+ques 17
+o    16
+ur   16
+ique 15
+ne   14
+se   14
+urs  14
+ce   13
+f    13
+ge   13
+l    13
+tes  13
+ts   13
+us   13
+ux   13
+v    13
+ve   13
+eur  12
+ier  12
+ions 12
+le   12
+les  12
+ns   12
+sme  12
+nts  11
+ra   11
+isme 10
+té   10
+y    10
+en   9
+eurs 9
+g    9
+ire  9
+iste 9
+nte  9
+rait 9
+rs   9
+ste  9
+x    9
+iens 8
+ité  8
+ont  8
+ses  8
+stes 8
+ves  8
+age  7
+bles 7
+d    7
+fs   7
+iii  7
+nne  7
+as   6
+ble  6
+c    6
+ien  6
+ies  6
+nes  6
+re   6
+rent 6
+rice 6
+um   6
+aire 5
+al   5
+an   5
+ces  5
+enne 5
+ens  5
+ers  5
+ges  5
+idés 5
+iers 5
+ires 5
+is   5
+me   5
+ntes 5
+os   5
+sant 5
+z    5
+ère  5
+ards 4
+aux  4
+cées 4
+de   4
+ia   4
+in   4
+ite  4
+k    4
+m2   4
+nnes 4
+ront 4
+sent 4
+sse  4
+u    4
+ure  4
+use  4
+'s   3
+0km2 3
+ais  3
+ard  3
+av   3
+dés  3
+h    3
+il   3
+ing  3
+ites 3
+km   3
+km2  3
+la   3
+na   3
+nent 3
+oire 3
+rie  3
+sait 3
+son  3
+teur 3
+tte  3
+ue   3
+uses 3
+ères 3
+'    2
+-    2
+-il  2
+-on  2
+-v   2
+/h   2
+ale  2
+ales 2
+ants 2
+au   2
+ca   2
+ch   2
+des  2
+elle 2
+era  2
+euse 2
+eux  2
+ey   2
+ha   2
+ieux 2
+ille 2
+ine  2
+itch 2
+ium  2
+ius  2
+iv   2
+ième 2
+ière 2
+lle  2
+m/h  2
+mm   2
+nce  2
+nels 2
+ner  2
+ng   2
+ois  2
+pr   2
+rd   2
+res  2
+ries 2
+sa   2
+ton  2
+ttes 2
+tés  2
+ues  2
+urg  2
+vité 2
+ya   2
+-ils 1
+-or  1
+-sud 1
+-é   1
+/an  1
+/km2 1
+/s   1
+00   1
+0km  1
+3/s  1
+]    1
+abad 1
+able 1
+aise 1
+ana  1
+ance 1
+ans  1
+ante 1
+apr  1
+ar   1
+at   1
+ate  1
+ates 1
+ay   1
+ays  1
+b    1
+berg 1
+burg 1
+cain 1
+ci   1
+cien 1
+cinq 1
+cité 1
+ción 1
+ck   1
+co   1
+ctif 1
+deux 1
+do   1
+dra  1
+dre  1
+ea   1
+eait 1
+eant 1
+eau  1
+el   1
+ept  1
+erg  1
+erie 1
+et   1
+ette 1
+eute 1
+ev   1
+ff   1
+ham  1
+heim 1
+hip  1
+huit 1
+ian  1
+iat  1
+ide  1
+ides 1
+ik   1
+ines 1
+ino  1
+io   1
+ios  1
+ise  1
+isit 1
+ita  1
+its  1
+ités 1
+ix   1
+j    1
+ja   1
+ka   1
+land 1
+ler  1
+ley  1
+li   1
+lin  1
+lite 1
+lité 1
+ll   1
+llet 1
+lo   1
+lt   1
+lus  1
+ly   1
+là   1
+ma   1
+mai  1
+man  1
+mann 1
+mes  1
+mte  1
+nais 1
+nces 1
+nd   1
+nel  1
+neuf 1
+ni   1
+nier 1
+no   1
+nord 1
+nres 1
+nus  1
+né   1
+nées 1
+nés  1
+ose  1
+ot   1
+ou   1
+ourg 1
+ous  1
+ov   1
+pur  1
+ri   1
+ria  1
+ril  1
+ris  1
+rité 1
+rius 1
+rps  1
+rt   1
+ry   1
+sage 1
+sen  1
+sept 1
+ser  1
+seur 1
+side 1
+sion 1
+six  1
+sk   1
+ski  1
+sons 1
+sque 1
+sses 1
+sson 1
+sud  1
+t-il 1
+ta   1
+tan  1
+tch  1
+ter  1
+th   1
+ti   1
+to   1
+tone 1
+umes 1
+ures 1
+utes 1
+w    1
+wald 1
+wn   1
+wood 1
+ze   1
+»    1
+án   1
+ât   1
+éra  1
+érer 1
+éré  1
+érée 1
+érés 1
+ï    1
+ïde  1
+ïque 1
+ón   1
+
+NULL 442
+'-NULL                    's-NULL                     's-NULL-s                 --NULL                        --NULL-m                     
+-il--on-NULL              -il-NULL                    -ils-NULL                 -on-NULL                      -or-NULL                     
+-sud-NULL                 -v-NULL                     -v-NULL-m                 -é-NULL                       /an-NULL                     
+/h-2-NULL                 /h-NULL                     /km2-NULL                 /s-NULL                       0-NULL                       
+0km-NULL                  0km2-NULL                   1-2-NULL                  1-NULL                        2-NULL                       
+3-NULL                    3/s-NULL                    4-NULL                    5-NULL                        7-NULL                       
+NULL-]                    NULL-a                      NULL-a-ait                NULL-a-ait-ent                NULL-a-ait-ent-ont           
+NULL-a-ait-ont            NULL-a-as                   NULL-a-e                  NULL-a-e-es                   NULL-a-e-es-s                
+NULL-a-ent                NULL-a-i                    NULL-a-o                  NULL-a-ont                    NULL-a-s                     
+NULL-a-us                 NULL-abad                   NULL-age                  NULL-aire-s                   NULL-ais                     
+NULL-ais-aise             NULL-ait                    NULL-ait-ent              NULL-ait-ont                  NULL-al                      
+NULL-al-ale-ales-aux-s    NULL-an                     NULL-ana                  NULL-ans                      NULL-apr                     
+NULL-ar                   NULL-ard                    NULL-as                   NULL-at                       NULL-au                      
+NULL-au-aux-s             NULL-av                     NULL-av-m                 NULL-av-s                     NULL-ays                     
+NULL-b                    NULL-berg                   NULL-ble-bles-ient-it-nt  NULL-ble-bles-ient-it-nt-tion NULL-ble-ient-it-nt          
+NULL-bles-ient-it-nt      NULL-burg                   NULL-c                    NULL-c-s                      NULL-ch                      
+NULL-co                   NULL-cées                   NULL-cées-s               NULL-d                        NULL-d-s                     
+NULL-de                   NULL-de-des                 NULL-do                   NULL-e                        NULL-e-es                    
+NULL-e-es-is              NULL-e-es-isme-iste         NULL-e-es-iste            NULL-e-es-ité                 NULL-e-es-ité-s              
+NULL-e-es-ment-s          NULL-e-es-r-rent-s-t        NULL-e-es-r-t             NULL-e-es-rent-s-t            NULL-e-es-s                  
+NULL-e-es-sion            NULL-e-i                    NULL-e-ité                NULL-e-o                      NULL-e-s                     
+NULL-eau                  NULL-el                     NULL-en                   NULL-en-enne                  NULL-en-enne-ens             
+NULL-ens                  NULL-ent                    NULL-ent-t                NULL-er                       NULL-er-ers                  
+NULL-er-i                 NULL-er-s                   NULL-ers                  NULL-es                       NULL-es-s                    
+NULL-et                   NULL-ette                   NULL-euse-eux-s           NULL-ev                       NULL-ey                      
+NULL-f                    NULL-g                      NULL-ge                   NULL-ge-ges                   NULL-ge-ges-ient-it-nt       
+NULL-ge-ges-nt            NULL-ge-ient-it-nt          NULL-ge-it-nt             NULL-ge-nt                    NULL-h                       
+NULL-ha                   NULL-ham                    NULL-heim                 NULL-hip                      NULL-i                       
+NULL-i-ient-it            NULL-i-ii                   NULL-i-ii-iii             NULL-i-ii-v                   NULL-i-iii                   
+NULL-i-o                  NULL-i-s                    NULL-ia                   NULL-ian                      NULL-ide                     
+NULL-ides                 NULL-idés                   NULL-ie                   NULL-ie-ies                   NULL-ie-ies-s                
+NULL-ie-s                 NULL-ien                    NULL-ien-iens             NULL-iens                     NULL-ient                    
+NULL-ient-it              NULL-ient-it-nce-nt         NULL-ient-it-nt           NULL-ient-it-nt-nte           NULL-ient-it-nt-nte-ntes-nts 
+NULL-ient-it-nt-nts       NULL-ient-it-nt-teur-tion   NULL-ient-it-nt-tion      NULL-ient-nt                  NULL-ient-nt-tion            
+NULL-ier                  NULL-ier-ii                 NULL-ier-ii-iii           NULL-ier-ii-iii-iv            NULL-ier-iii                 
+NULL-ier-s                NULL-ii                     NULL-ii-iii               NULL-ii-ire                   NULL-ii-s                    
+NULL-iii                  NULL-ille                   NULL-in                   NULL-ine                      NULL-ing                     
+NULL-ing-s                NULL-ion                    NULL-ion-ions             NULL-ion-s                    NULL-ions                    
+NULL-ios                  NULL-ique                   NULL-ique-s               NULL-ire                      NULL-ire-ires                
+NULL-is                   NULL-is-s                   NULL-ise                  NULL-isme                     NULL-isme-iste               
+NULL-isme-s               NULL-iste                   NULL-iste-s               NULL-it                       NULL-it-nt                   
+NULL-it-nt-tion           NULL-itch                   NULL-ite                  NULL-ite-ites                 NULL-ites                    
+NULL-ité                  NULL-ium                    NULL-ius                  NULL-iv                       NULL-ième                    
+NULL-j                    NULL-ja                     NULL-k                    NULL-ka                       NULL-km                      
+NULL-km-m                 NULL-km2                    NULL-l                    NULL-l-le-les-ux              NULL-l-s                     
+NULL-la                   NULL-land                   NULL-le                   NULL-le-les                   NULL-le-les-s                
+NULL-le-s                 NULL-les                    NULL-les-s                NULL-ley                      NULL-li                      
+NULL-lin                  NULL-lite                   NULL-lle                  NULL-lle-s                    NULL-lo                      
+NULL-ly                   NULL-m                      NULL-m-m2                 NULL-m-mm                     NULL-ma                      
+NULL-mai                  NULL-man                    NULL-mann                 NULL-me                       NULL-ment                    
+NULL-ment-nt              NULL-ment-nt-r              NULL-ment-nt-r-ra         NULL-ment-nt-r-rait           NULL-ment-nt-r-s             
+NULL-ment-nt-s            NULL-ment-r                 NULL-ment-r-s             NULL-ment-s                   NULL-ment-s-té               
+NULL-ment-s-ur-urs        NULL-mm                     NULL-n                    NULL-n-nne                    NULL-n-nne-nnes-ns           
+NULL-n-nne-nnes-ns-s      NULL-n-nne-ns               NULL-n-ns                 NULL-n-ns-s                   NULL-n-r                     
+NULL-n-s                  NULL-na                     NULL-nais                 NULL-nd                       NULL-ne                      
+NULL-ne-nes               NULL-ne-nes-s               NULL-ne-s                 NULL-nel-nels-s               NULL-nels-s                  
+NULL-ner                  NULL-ner-s                  NULL-nes                  NULL-nes-s                    NULL-ng                      
+NULL-ni                   NULL-nier-s                 NULL-nne                  NULL-nne-ns                   NULL-nnes                    
+NULL-no                   NULL-ns                     NULL-ns-s                 NULL-nt                       NULL-nt-nte                  
+NULL-nt-nte-ntes-nts      NULL-nt-nts                 NULL-nt-nts-tion          NULL-nt-r                     NULL-nt-r-ra                 
+NULL-nt-r-ra-rait         NULL-nt-r-ra-rait-ront      NULL-nt-r-ra-ront         NULL-nt-r-ra-s                NULL-nt-r-ra-ur-urs          
+NULL-nt-r-rait            NULL-nt-r-rait-ront         NULL-nt-r-rait-s          NULL-nt-r-ront                NULL-nt-r-s                  
+NULL-nt-r-s-ur-urs        NULL-nt-r-ur                NULL-nt-r-ur-urs          NULL-nt-r-urs                 NULL-nt-r-z                  
+NULL-nt-ra                NULL-nt-ra-rait             NULL-nt-rait              NULL-nt-s                     NULL-nt-teur-tion            
+NULL-nt-tion              NULL-nt-ur-urs              NULL-nte                  NULL-nus                      NULL-né-s                    
+NULL-o                    NULL-ois                    NULL-on                   NULL-on-ons                   NULL-ons                     
+NULL-ont                  NULL-os                     NULL-ot                   NULL-ou                       NULL-ov                      
+NULL-pur                  NULL-que                    NULL-que-ques             NULL-r                        NULL-r-ra                    
+NULL-r-rait               NULL-r-rs                   NULL-r-rs-s               NULL-r-s                      NULL-r-s-ur-urs              
+NULL-r-ur                 NULL-r-urs                  NULL-ra                   NULL-rd                       NULL-re                      
+NULL-rent-t               NULL-ri                     NULL-rie                  NULL-rie-ries-s               NULL-rie-s                   
+NULL-ries-s               NULL-ril                    NULL-ris                  NULL-rius                     NULL-rs                      
+NULL-rt                   NULL-s                      NULL-s-sa                 NULL-s-sse                    NULL-s-sse-sses              
+NULL-s-t                  NULL-s-t-ts                 NULL-s-te                 NULL-s-te-tes                 NULL-s-ton                   
+NULL-s-tte                NULL-s-tte-ttes             NULL-s-ttes               NULL-s-té                     NULL-s-ur                    
+NULL-s-ur-urs             NULL-s-us                   NULL-s-use-uses-ux        NULL-s-use-ux                 NULL-s-uses                  
+NULL-s-ux                 NULL-s-x                    NULL-s-y                  NULL-sa                       NULL-sage                    
+NULL-sait-sant-se-sent    NULL-sait-sant-se-sent-seur NULL-sait-sant-sent       NULL-sant                     NULL-sant-sent               
+NULL-se                   NULL-se-ses                 NULL-sen                  NULL-ses                      NULL-side                    
+NULL-sk                   NULL-ski                    NULL-son                  NULL-sque                     NULL-sse                     
+NULL-sson                 NULL-t                      NULL-t-ts                 NULL-ta                       NULL-tan                     
+NULL-te                   NULL-te-tes                 NULL-ter                  NULL-tes                      NULL-teur-tion               
+NULL-th                   NULL-ti                     NULL-tion                 NULL-to                       NULL-ton                     
+NULL-tone                 NULL-ts                     NULL-tte                  NULL-té                       NULL-u                       
+NULL-um                   NULL-umes                   NULL-ur                   NULL-ur-urs                   NULL-ure-ures                
+NULL-urs                  NULL-us                     NULL-use                  NULL-use-uses-ux              NULL-utes                    
+NULL-ux                   NULL-v                      NULL-w                    NULL-wald                     NULL-wood                    
+NULL-x                    NULL-y                      NULL-ya                   NULL-z                        NULL-»                       
+NULL-é                    NULL-ée                     
+
+e    165
+NULL-a-e                            NULL-a-e-es                              NULL-a-e-es-s                       NULL-e                            NULL-e-es                 
+NULL-e-es-is                        NULL-e-es-isme-iste                      NULL-e-es-iste                      NULL-e-es-ité                     NULL-e-es-ité-s           
+NULL-e-es-ment-s                    NULL-e-es-r-rent-s-t                     NULL-e-es-r-t                       NULL-e-es-rent-s-t                NULL-e-es-s               
+NULL-e-es-sion                      NULL-e-i                                 NULL-e-ité                          NULL-e-o                          NULL-e-s                  
+a-able-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és a-ait-ant-e-ent                   a-ait-ant-e-ent-er        
+a-ait-ant-e-ent-er-era              a-ait-ant-e-ent-er-era-é-ée-ées-és       a-ait-ant-e-ent-er-es-é-ée-ées-és   a-ait-ant-e-ent-er-ât-é-ée-ées-és a-ait-ant-e-ent-er-é      
+a-ait-ant-e-ent-er-é-ée-ées-és      a-ait-ant-e-ent-er-é-ée-és               a-ait-ant-e-er                      a-ait-ant-e-er-é-ée-ées-és        a-ait-e                   
+a-ait-e-ent                         a-ait-e-ent-er                           a-ait-e-er                          a-ait-e-ont                       a-ant-e-ent-er            
+a-ant-e-ent-er-es-é-ée-ées-és       a-ant-e-ent-er-é-ée-ées-és               a-ant-e-er-é-ée-ées-és              a-as-e                            a-e                       
+a-e-en-enne-ens                     a-e-ent                                  a-e-ent-er                          a-e-ent-er-é-ée-ées-és            a-e-er                    
+a-e-es                              a-e-ont                                  age-e                               age-e-er-es                       age-e-es                  
+aire-e                              aire-e-es                                ais-e                               ait-ant-e-ent                     ait-ant-e-ent-er          
+ait-ant-e-ent-it                    ait-e                                    ait-e-ent                           al-ale-ales-aux-e-es              al-e                      
+ant-e                               ant-e-ent                                ant-e-ent-er                        ant-e-ent-er-é-ée-ées-és          ant-e-er                  
+as-e                                e-ea-eait-eant-ent-er-é-ée-ées-és        e-ent-er-é-ée-ées-és                e-er-é-ée-ées-és                  e-es-i                    
+e-es-ia                             e-es-iat                                 e-es-idés                           e-es-ie                           e-es-ie-ies               
+e-es-ie-ies-ique                    e-es-ie-ique                             e-es-ien-iens                       e-es-iens                         e-es-ier                  
+e-es-ier-iers                       e-es-ier-iers-ière                       e-es-iers                           e-es-ieux                         e-es-ique                 
+e-es-ique-isme                      e-es-is                                  e-es-isme                           e-es-isme-iste                    e-es-iste                 
+e-es-ité                            e-es-ité-ités                            e-es-ière                           e-es-o                            e-es-on                   
+e-es-on-ons                         e-es-os                                  e-es-que                            e-es-que-ques                     e-es-que-ques-ste-stes    
+e-es-ques                           e-es-s                                   e-es-um                             e-es-us                           e-es-é                    
+e-es-é-ée-ées-és                    e-es-é-és                                e-es-ée                             e-es-ées                          e-es-és                   
+e-g                                 e-i                                      e-ia                                e-ie                              e-ie-ique                 
+e-ien                               e-ien-iens                               e-iens                              e-ier                             e-iers                    
+e-ieux                              e-in                                     e-ines                              e-io                              e-ion                     
+e-ique                              e-is                                     e-isme                              e-isme-iste                       e-iste                    
+e-ite                               e-ité                                    e-ium                               e-ius                             e-ième                    
+e-l                                 e-ne                                     e-o                                 e-ois                             e-on                      
+e-os                                e-que                                    e-que-ques                          e-que-ques-ste-stes               e-que-ques-stes           
+e-ques                              e-s                                      e-sme                               e-ste                             e-t                       
+e-te                                e-um                                     e-ure                               e-us                              e-é                       
+e-é-ée                              e-é-és                                   e-ée                                e-ées                             e-és                      
+
+s    129
+'s-NULL-s                 's-s                      NULL-a-e-es-s             NULL-a-s                  NULL-aire-s               
+NULL-al-ale-ales-aux-s    NULL-au-aux-s             NULL-av-s                 NULL-c-s                  NULL-cées-s               
+NULL-d-s                  NULL-e-es-ité-s           NULL-e-es-ment-s          NULL-e-es-r-rent-s-t      NULL-e-es-rent-s-t        
+NULL-e-es-s               NULL-e-s                  NULL-er-s                 NULL-es-s                 NULL-euse-eux-s           
+NULL-i-s                  NULL-ie-ies-s             NULL-ie-s                 NULL-ier-s                NULL-ii-s                 
+NULL-ing-s                NULL-ion-s                NULL-ique-s               NULL-is-s                 NULL-isme-s               
+NULL-iste-s               NULL-l-s                  NULL-le-les-s             NULL-le-s                 NULL-les-s                
+NULL-lle-s                NULL-ment-nt-r-s          NULL-ment-nt-s            NULL-ment-r-s             NULL-ment-s               
+NULL-ment-s-té            NULL-ment-s-ur-urs        NULL-n-nne-nnes-ns-s      NULL-n-ns-s               NULL-n-s                  
+NULL-ne-nes-s             NULL-ne-s                 NULL-nel-nels-s           NULL-nels-s               NULL-ner-s                
+NULL-nes-s                NULL-nier-s               NULL-ns-s                 NULL-nt-r-ra-s            NULL-nt-r-rait-s          
+NULL-nt-r-s               NULL-nt-r-s-ur-urs        NULL-nt-s                 NULL-né-s                 NULL-r-rs-s               
+NULL-r-s                  NULL-r-s-ur-urs           NULL-rie-ries-s           NULL-rie-s                NULL-ries-s               
+NULL-s                    NULL-s-sa                 NULL-s-sse                NULL-s-sse-sses           NULL-s-t                  
+NULL-s-t-ts               NULL-s-te                 NULL-s-te-tes             NULL-s-ton                NULL-s-tte                
+NULL-s-tte-ttes           NULL-s-ttes               NULL-s-té                 NULL-s-ur                 NULL-s-ur-urs             
+NULL-s-us                 NULL-s-use-uses-ux        NULL-s-use-ux             NULL-s-uses               NULL-s-ux                 
+NULL-s-x                  NULL-s-y                  a-s                       aux-s                     c-s                       
+ca-s                      d-s                       de-s                      des-s                     dés-s                     
+e-es-s                    e-s                       en-s                      ent-s-t                   er-s                      
+es-s                      h-s                       i-s                       ie-s                      ion-s                     
+ique-s                    l-s                       le-les-s                  le-s                      les-s                     
+lus-s                     m-s                       ment-s                    n-s                       ne-nes-s                  
+ne-s                      nes-s                     nt-s                      nées-s                    o-s                       
+r-rs-s                    r-s                       rent-s-se-ses-t           s-t                       s-te                      
+s-ts                      s-té                      s-us                      s-z                       
+
+a    91
+NULL-a                              NULL-a-ait                               NULL-a-ait-ent                      NULL-a-ait-ent-ont                NULL-a-ait-ont            
+NULL-a-as                           NULL-a-e                                 NULL-a-e-es                         NULL-a-e-es-s                     NULL-a-ent                
+NULL-a-i                            NULL-a-o                                 NULL-a-ont                          NULL-a-s                          NULL-a-us                 
+a-able-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és a-ait-ant-e-ent                   a-ait-ant-e-ent-er        
+a-ait-ant-e-ent-er-era              a-ait-ant-e-ent-er-era-é-ée-ées-és       a-ait-ant-e-ent-er-es-é-ée-ées-és   a-ait-ant-e-ent-er-ât-é-ée-ées-és a-ait-ant-e-ent-er-é      
+a-ait-ant-e-ent-er-é-ée-ées-és      a-ait-ant-e-ent-er-é-ée-és               a-ait-ant-e-er                      a-ait-ant-e-er-é-ée-ées-és        a-ait-ant-er              
+a-ait-ant-er-é-ée-ées-és            a-ait-e                                  a-ait-e-ent                         a-ait-e-ent-er                    a-ait-e-er                
+a-ait-e-ont                         a-ait-er                                 a-ait-er-é-ée-ées-és                a-ait-ont                         a-ant-e-ent-er            
+a-ant-e-ent-er-es-é-ée-ées-és       a-ant-e-ent-er-é-ée-ées-és               a-ant-e-er-é-ée-ées-és              a-ant-er                          a-ant-er-é-ée-ées-és      
+a-as-e                              a-as-o                                   a-c                                 a-e                               a-e-en-enne-ens           
+a-e-ent                             a-e-ent-er                               a-e-ent-er-é-ée-ées-és              a-e-er                            a-e-es                    
+a-e-ont                             a-en                                     a-ent                               a-er                              a-er-é-ée                 
+a-er-é-ée-ées-és                    a-es                                     a-ha                                a-i                               a-ia                      
+a-idés                              a-ie                                     a-ien-iens                          a-ik                              a-ine                     
+a-ion                               a-ique                                   a-ita                               a-la                              a-n                       
+a-na                                a-ne                                     a-o                                 a-on                              a-os                      
+a-ose                               a-que                                    a-r                                 a-s                               a-um                      
+a-um-us                             a-us                                     a-y                                 a-ya                              a-z                       
+a-é                                 
+
+nt   78
+NULL-ble-bles-ient-it-nt  NULL-ble-bles-ient-it-nt-tion NULL-ble-ient-it-nt          NULL-bles-ient-it-nt      NULL-ge-ges-ient-it-nt    
+NULL-ge-ges-nt            NULL-ge-ient-it-nt            NULL-ge-it-nt                NULL-ge-nt                NULL-ient-it-nce-nt       
+NULL-ient-it-nt           NULL-ient-it-nt-nte           NULL-ient-it-nt-nte-ntes-nts NULL-ient-it-nt-nts       NULL-ient-it-nt-teur-tion 
+NULL-ient-it-nt-tion      NULL-ient-nt                  NULL-ient-nt-tion            NULL-it-nt                NULL-it-nt-tion           
+NULL-ment-nt              NULL-ment-nt-r                NULL-ment-nt-r-ra            NULL-ment-nt-r-rait       NULL-ment-nt-r-s          
+NULL-ment-nt-s            NULL-nt                       NULL-nt-nte                  NULL-nt-nte-ntes-nts      NULL-nt-nts               
+NULL-nt-nts-tion          NULL-nt-r                     NULL-nt-r-ra                 NULL-nt-r-ra-rait         NULL-nt-r-ra-rait-ront    
+NULL-nt-r-ra-ront         NULL-nt-r-ra-s                NULL-nt-r-ra-ur-urs          NULL-nt-r-rait            NULL-nt-r-rait-ront       
+NULL-nt-r-rait-s          NULL-nt-r-ront                NULL-nt-r-s                  NULL-nt-r-s-ur-urs        NULL-nt-r-ur              
+NULL-nt-r-ur-urs          NULL-nt-r-urs                 NULL-nt-r-z                  NULL-nt-ra                NULL-nt-ra-rait           
+NULL-nt-rait              NULL-nt-s                     NULL-nt-teur-tion            NULL-nt-tion              NULL-nt-ur-urs            
+ble-bles-ient-it-nt       enne-ent-nt                   ge-ges-nt                    ge-ient-it-nt             ge-ient-nt                
+ge-it-nt                  ge-nt                         ient-it-nt                   ient-it-nt-nte-ntes       ient-it-nt-nte-ntes-nts   
+ient-it-nt-nts            ient-nt                       ient-nt-nte-ntes-nts         it-nt                     it-nt-nts                 
+it-nt-tion                ment-nt                       ment-nt-r                    nt-nts-tion               nt-r                      
+nt-s                      nt-tion                       nt-ur-urs                    
+
+er   76
+NULL-er                                  NULL-er-ers                         NULL-er-i                         NULL-er-s                      a-able-ait-ant-e-ent-er-é-ée-ées-és 
+a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és a-ait-ant-e-ent-er                a-ait-ant-e-ent-er-era         a-ait-ant-e-ent-er-era-é-ée-ées-és  
+a-ait-ant-e-ent-er-es-é-ée-ées-és        a-ait-ant-e-ent-er-ât-é-ée-ées-és   a-ait-ant-e-ent-er-é              a-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-e-ent-er-é-ée-és          
+a-ait-ant-e-er                           a-ait-ant-e-er-é-ée-ées-és          a-ait-ant-er                      a-ait-ant-er-é-ée-ées-és       a-ait-e-ent-er                      
+a-ait-e-er                               a-ait-er                            a-ait-er-é-ée-ées-és              a-ant-e-ent-er                 a-ant-e-ent-er-es-é-ée-ées-és       
+a-ant-e-ent-er-é-ée-ées-és               a-ant-e-er-é-ée-ées-és              a-ant-er                          a-ant-er-é-ée-ées-és           a-e-ent-er                          
+a-e-ent-er-é-ée-ées-és                   a-e-er                              a-er                              a-er-é-ée                      a-er-é-ée-ées-és                    
+age-e-er-es                              age-er                              ait-ant-e-ent-er                  ait-er                         ance-er                             
+ant-e-ent-er                             ant-e-ent-er-é-ée-ées-és            ant-e-er                          ant-ent-er                     ant-er                              
+ant-er-é                                 ant-er-é-ée-ées-és                  e-ea-eait-eant-ent-er-é-ée-ées-és e-ent-er-é-ée-ées-és           e-er-é-ée-ées-és                    
+er-ers-ère                               er-ers-ère-ères                     er-ers-ères                       er-i                           er-i-ii                             
+er-i-ii-v                                er-i-ii-v-x                         er-i-v                            er-ier                         er-ii                               
+er-ii-v                                  er-ing                              er-ion-ions                       er-ler                         er-re                               
+er-re-res                                er-s                                er-ère                            er-ère-ères                    er-é                                
+er-é-ée-ées-és                           er-é-ée-és                          er-é-és                           er-ée                          er-ées                              
+er-és                                    
+
+es   76
+NULL-a-e-es               NULL-a-e-es-s                     NULL-e-es                     NULL-e-es-is              NULL-e-es-isme-iste       
+NULL-e-es-iste            NULL-e-es-ité                     NULL-e-es-ité-s               NULL-e-es-ment-s          NULL-e-es-r-rent-s-t      
+NULL-e-es-r-t             NULL-e-es-rent-s-t                NULL-e-es-s                   NULL-e-es-sion            NULL-es                   
+NULL-es-s                 a-ait-ant-e-ent-er-es-é-ée-ées-és a-ant-e-ent-er-es-é-ée-ées-és a-e-es                    a-es                      
+age-e-er-es               age-e-es                          aire-e-es                     al-ale-ales-aux-e-es      as-es                     
+e-es-i                    e-es-ia                           e-es-iat                      e-es-idés                 e-es-ie                   
+e-es-ie-ies               e-es-ie-ies-ique                  e-es-ie-ique                  e-es-ien-iens             e-es-iens                 
+e-es-ier                  e-es-ier-iers                     e-es-ier-iers-ière            e-es-iers                 e-es-ieux                 
+e-es-ique                 e-es-ique-isme                    e-es-is                       e-es-isme                 e-es-isme-iste            
+e-es-iste                 e-es-ité                          e-es-ité-ités                 e-es-ière                 e-es-o                    
+e-es-on                   e-es-on-ons                       e-es-os                       e-es-que                  e-es-que-ques             
+e-es-que-ques-ste-stes    e-es-ques                         e-es-s                        e-es-um                   e-es-us                   
+e-es-é                    e-es-é-ée-ées-és                  e-es-é-és                     e-es-ée                   e-es-ées                  
+e-es-és                   es-i                              es-idés                       es-ie                     es-ie-ique                
+es-iens                   es-ique                           es-isme                       es-ité                    es-s                      
+es-és                     
+
+r    59
+NULL-e-es-r-rent-s-t      NULL-e-es-r-t             NULL-ment-nt-r            NULL-ment-nt-r-ra         NULL-ment-nt-r-rait       
+NULL-ment-nt-r-s          NULL-ment-r               NULL-ment-r-s             NULL-n-r                  NULL-nt-r                 
+NULL-nt-r-ra              NULL-nt-r-ra-rait         NULL-nt-r-ra-rait-ront    NULL-nt-r-ra-ront         NULL-nt-r-ra-s            
+NULL-nt-r-ra-ur-urs       NULL-nt-r-rait            NULL-nt-r-rait-ront       NULL-nt-r-rait-s          NULL-nt-r-ront            
+NULL-nt-r-s               NULL-nt-r-s-ur-urs        NULL-nt-r-ur              NULL-nt-r-ur-urs          NULL-nt-r-urs             
+NULL-nt-r-z               NULL-r                    NULL-r-ra                 NULL-r-rait               NULL-r-rs                 
+NULL-r-rs-s               NULL-r-s                  NULL-r-s-ur-urs           NULL-r-ur                 NULL-r-urs                
+a-r                       d-r                       ire-ires-r                l-r                       ment-nt-r                 
+ment-r                    n-nne-nnes-ns-r           n-r                       nce-nces-r                ns-r                      
+nt-r                      r-rent-t                  r-rs-s                    r-rs-se                   r-rs-se-ses               
+r-rs-ses                  r-s                       r-se                      r-t                       r-ur                      
+r-ur-urs                  r-urs                     r-y                       r-z                       
+
+ent  51
+NULL-a-ait-ent            NULL-a-ait-ent-ont                  NULL-a-ent                               NULL-ait-ent                        NULL-ent                          
+NULL-ent-t                a-able-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és a-ait-ant-e-ent                   
+a-ait-ant-e-ent-er        a-ait-ant-e-ent-er-era              a-ait-ant-e-ent-er-era-é-ée-ées-és       a-ait-ant-e-ent-er-es-é-ée-ées-és   a-ait-ant-e-ent-er-ât-é-ée-ées-és 
+a-ait-ant-e-ent-er-é      a-ait-ant-e-ent-er-é-ée-ées-és      a-ait-ant-e-ent-er-é-ée-és               a-ait-e-ent                         a-ait-e-ent-er                    
+a-ant-e-ent-er            a-ant-e-ent-er-es-é-ée-ées-és       a-ant-e-ent-er-é-ée-ées-és               a-e-ent                             a-e-ent-er                        
+a-e-ent-er-é-ée-ées-és    a-ent                               ait-ant-e-ent                            ait-ant-e-ent-er                    ait-ant-e-ent-it                  
+ait-ant-ent               ait-ant-ent-it                      ait-e-ent                                ait-ent                             ant-e-ent                         
+ant-e-ent-er              ant-e-ent-er-é-ée-ées-és            ant-ent                                  ant-ent-er                          e-ea-eait-eant-ent-er-é-ée-ées-és 
+e-ent-er-é-ée-ées-és      enne-ent-nt                         ent-it                                   ent-ment                            ent-re-res-t                      
+ent-s-t                   ent-son-sons-t                      ent-t                                    ent-t-t-il                          ent-é                             
+ent-é-ée-ées-és           
+
+é    43
+NULL-é                            a-able-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és a-ait-ant-e-ent-er-era-é-ée-ées-és 
+a-ait-ant-e-ent-er-es-é-ée-ées-és a-ait-ant-e-ent-er-ât-é-ée-ées-és   a-ait-ant-e-ent-er-é                     a-ait-ant-e-ent-er-é-ée-ées-és      a-ait-ant-e-ent-er-é-ée-és         
+a-ait-ant-e-er-é-ée-ées-és        a-ait-ant-er-é-ée-ées-és            a-ait-er-é-ée-ées-és                     a-ant-e-ent-er-es-é-ée-ées-és       a-ant-e-ent-er-é-ée-ées-és         
+a-ant-e-er-é-ée-ées-és            a-ant-er-é-ée-ées-és                a-e-ent-er-é-ée-ées-és                   a-er-é-ée                           a-er-é-ée-ées-és                   
+a-é                               age-é                               aire-é-és                                ant-e-ent-er-é-ée-ées-és            ant-er-é                           
+ant-er-é-ée-ées-és                e-ea-eait-eant-ent-er-é-ée-ées-és   e-ent-er-é-ée-ées-és                     e-er-é-ée-ées-és                    e-es-é                             
+e-es-é-ée-ées-és                  e-es-é-és                           e-é                                      e-é-ée                              e-é-és                             
+ent-é                             ent-é-ée-ées-és                     er-é                                     er-é-ée-ées-és                      er-é-ée-és                         
+er-é-és                           y-é                                 y-é-és                                   
+
+t    41
+NULL-e-es-r-rent-s-t      NULL-e-es-r-t             NULL-e-es-rent-s-t        NULL-ent-t                NULL-rent-t               
+NULL-s-t                  NULL-s-t-ts               NULL-t                    NULL-t-ts                 ce-ces-t                  
+ce-ces-t-te-tes-ts        ce-ces-t-te-ts            ce-ces-t-tes-ts           ce-ces-t-ts               ce-t                      
+ce-t-te                   ce-t-te-tes               ce-t-te-tes-ts            ce-t-te-ts                ce-t-ts                   
+d-t                       dra-ne-nent-t             dre-t-te-tes-ts           e-t                       ent-re-res-t              
+ent-s-t                   ent-son-sons-t            ent-t                     ent-t-t-il                g-t                       
+lt-t                      n-t                       ne-nent-t                 ne-t                      nent-t                    
+r-rent-t                  r-t                       rent-s-se-ses-t           rent-t                    s-t                       
+sse-t                     
+
+ait  40
+NULL-a-ait                        NULL-a-ait-ent            NULL-a-ait-ent-ont                  NULL-a-ait-ont                           NULL-ait                            
+NULL-ait-ent                      NULL-ait-ont              a-able-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és 
+a-ait-ant-e-ent                   a-ait-ant-e-ent-er        a-ait-ant-e-ent-er-era              a-ait-ant-e-ent-er-era-é-ée-ées-és       a-ait-ant-e-ent-er-es-é-ée-ées-és   
+a-ait-ant-e-ent-er-ât-é-ée-ées-és a-ait-ant-e-ent-er-é      a-ait-ant-e-ent-er-é-ée-ées-és      a-ait-ant-e-ent-er-é-ée-és               a-ait-ant-e-er                      
+a-ait-ant-e-er-é-ée-ées-és        a-ait-ant-er              a-ait-ant-er-é-ée-ées-és            a-ait-e                                  a-ait-e-ent                         
+a-ait-e-ent-er                    a-ait-e-er                a-ait-e-ont                         a-ait-er                                 a-ait-er-é-ée-ées-és                
+a-ait-ont                         ait-ant-e-ent             ait-ant-e-ent-er                    ait-ant-e-ent-it                         ait-ant-ent                         
+ait-ant-ent-it                    ait-e                     ait-e-ent                           ait-ent                                  ait-er                              
+
+ant  38
+a-able-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és a-ait-ant-e-ent                   a-ait-ant-e-ent-er        
+a-ait-ant-e-ent-er-era              a-ait-ant-e-ent-er-era-é-ée-ées-és       a-ait-ant-e-ent-er-es-é-ée-ées-és   a-ait-ant-e-ent-er-ât-é-ée-ées-és a-ait-ant-e-ent-er-é      
+a-ait-ant-e-ent-er-é-ée-ées-és      a-ait-ant-e-ent-er-é-ée-és               a-ait-ant-e-er                      a-ait-ant-e-er-é-ée-ées-és        a-ait-ant-er              
+a-ait-ant-er-é-ée-ées-és            a-ant-e-ent-er                           a-ant-e-ent-er-es-é-ée-ées-és       a-ant-e-ent-er-é-ée-ées-és        a-ant-e-er-é-ée-ées-és    
+a-ant-er                            a-ant-er-é-ée-ées-és                     ait-ant-e-ent                       ait-ant-e-ent-er                  ait-ant-e-ent-it          
+ait-ant-ent                         ait-ant-ent-it                           ant-e                               ant-e-ent                         ant-e-ent-er              
+ant-e-ent-er-é-ée-ées-és            ant-e-er                                 ant-ent                             ant-ent-er                        ant-er                    
+ant-er-é                            ant-er-é-ée-ées-és                       ant-ée                              
+
+és   35
+a-able-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és a-ait-ant-e-ent-er-era-é-ée-ées-és a-ait-ant-e-ent-er-es-é-ée-ées-és 
+a-ait-ant-e-ent-er-ât-é-ée-ées-és   a-ait-ant-e-ent-er-é-ée-ées-és           a-ait-ant-e-ent-er-é-ée-és          a-ait-ant-e-er-é-ée-ées-és         a-ait-ant-er-é-ée-ées-és          
+a-ait-er-é-ée-ées-és                a-ant-e-ent-er-es-é-ée-ées-és            a-ant-e-ent-er-é-ée-ées-és          a-ant-e-er-é-ée-ées-és             a-ant-er-é-ée-ées-és              
+a-e-ent-er-é-ée-ées-és              a-er-é-ée-ées-és                         aire-é-és                           ant-e-ent-er-é-ée-ées-és           ant-er-é-ée-ées-és                
+e-ea-eait-eant-ent-er-é-ée-ées-és   e-ent-er-é-ée-ées-és                     e-er-é-ée-ées-és                    e-es-é-ée-ées-és                   e-es-é-és                         
+e-es-és                             e-é-és                                   e-és                                ent-é-ée-ées-és                    er-é-ée-ées-és                    
+er-é-ée-és                          er-é-és                                  er-és                               es-és                              y-é-és                            
+
+it   34
+NULL-ble-bles-ient-it-nt  NULL-ble-bles-ient-it-nt-tion NULL-ble-ient-it-nt           NULL-bles-ient-it-nt      NULL-ge-ges-ient-it-nt    
+NULL-ge-ient-it-nt        NULL-ge-it-nt                 NULL-i-ient-it                NULL-ient-it              NULL-ient-it-nce-nt       
+NULL-ient-it-nt           NULL-ient-it-nt-nte           NULL-ient-it-nt-nte-ntes-nts  NULL-ient-it-nt-nts       NULL-ient-it-nt-teur-tion 
+NULL-ient-it-nt-tion      NULL-it                       NULL-it-nt                    NULL-it-nt-tion           ait-ant-e-ent-it          
+ait-ant-ent-it            ble-bles-ient-it-nt           ctif-ire-isit-it-ite-ites-its ent-it                    ge-ient-it-nt             
+ge-it-nt                  ient-it-nt                    ient-it-nt-nte-ntes           ient-it-nt-nte-ntes-nts   ient-it-nt-nts            
+it-nt                     it-nt-nts                     it-nt-tion                    it-tion                   
+
+ée   33
+NULL-ée                           a-able-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és a-ait-ant-e-ent-er-era-é-ée-ées-és 
+a-ait-ant-e-ent-er-es-é-ée-ées-és a-ait-ant-e-ent-er-ât-é-ée-ées-és   a-ait-ant-e-ent-er-é-ée-ées-és           a-ait-ant-e-ent-er-é-ée-és          a-ait-ant-e-er-é-ée-ées-és         
+a-ait-ant-er-é-ée-ées-és          a-ait-er-é-ée-ées-és                a-ant-e-ent-er-es-é-ée-ées-és            a-ant-e-ent-er-é-ée-ées-és          a-ant-e-er-é-ée-ées-és             
+a-ant-er-é-ée-ées-és              a-e-ent-er-é-ée-ées-és              a-er-é-ée                                a-er-é-ée-ées-és                    ant-e-ent-er-é-ée-ées-és           
+ant-er-é-ée-ées-és                ant-ée                              e-ea-eait-eant-ent-er-é-ée-ées-és        e-ent-er-é-ée-ées-és                e-er-é-ée-ées-és                   
+e-es-é-ée-ées-és                  e-es-ée                             e-é-ée                                   e-ée                                ent-é-ée-ées-és                    
+er-é-ée-ées-és                    er-é-ée-és                          er-ée                                    
+
+4    32
+0-1-2-3-4                 0-1-2-3-4-5-6             0-1-2-4                   0-1-4                     0-2-4                     
+0-4                       0-4-5                     0-4-7                     0-4-8                     1-2-4-5                   
+1-3-4                     1-4                       2-3-4                     2-4                       2-4-6                     
+3-4                       3-4-5                     3-4-6                     3-4-7                     3-4-8                     
+4-5                       4-5-6                     4-5-6-7                   4-5-7                     4-5-8                     
+4-6                       4-6-7                     4-6-9                     4-7                       4-8                       
+4-9                       4-NULL                    
+
+on   32
+NULL-on                   NULL-on-ons               a-on                      ard-ards-on-ons           ards-on-ons               
+ble-bles-on-ons           e-es-on                   e-es-on-ons               e-on                      elle-il-on                
+en-on                     euse-eux-on-ons           f-fs-on-ons               f-fs-on-ons-ve-ves        f-fs-on-ons-ve-ves-vité   
+f-fs-on-ve-ves            f-on                      f-on-ons                  f-on-ons-ve               f-on-ons-ve-ves           
+f-on-ve                   fs-on-ons                 fs-on-ons-ve-ves          il-on                     ng-on-ons                 
+on-ons-ve                 on-ons-ve-ves             on-sme                    on-son                    on-ve                     
+on-vité                   on-ón                     
+
+i    31
+NULL-a-i                  NULL-e-i                  NULL-er-i                 NULL-i                    NULL-i-ient-it            
+NULL-i-ii                 NULL-i-ii-iii             NULL-i-ii-v               NULL-i-iii                NULL-i-o                  
+NULL-i-s                  a-i                       an-i                      e-es-i                    e-i                       
+er-i                      er-i-ii                   er-i-ii-v                 er-i-ii-v-x               er-i-v                    
+es-i                      i-ii-v                    i-o                       i-os                      i-re                      
+i-rs                      i-s                       i-u                       i-us                      i-y                       
+i-ï                       
+
+5    28
+0-1-2-3-4-5-6             0-1-5                     0-3-5                     0-4-5                     0-5                       
+0-5-8                     1-2-4-5                   1-2-5                     1-5                       1-5-6                     
+2-5                       3-4-5                     3-5                       3-5-7                     4-5                       
+4-5-6                     4-5-6-7                   4-5-7                     4-5-8                     5-6                       
+5-6-7                     5-6-8                     5-6-9                     5-7                       5-7-9                     
+5-8                       5-9                       5-NULL                    
+
+7    28
+0-2-7                     0-4-7                     0-6-7                     0-7                       0-7-9                     
+1-2-7                     1-7                       2-7                       3-4-7                     3-5-7                     
+3-7                       3-7-8                     3-7-9                     4-5-6-7                   4-5-7                     
+4-6-7                     4-7                       5-6-7                     5-7                       5-7-9                     
+6-7                       6-7-8                     6-7-8-9                   6-7-9                     7-8                       
+7-8-9                     7-9                       7-NULL                    
+
+ient 28
+NULL-ble-bles-ient-it-nt  NULL-ble-bles-ient-it-nt-tion NULL-ble-ient-it-nt          NULL-bles-ient-it-nt      NULL-ge-ges-ient-it-nt    
+NULL-ge-ient-it-nt        NULL-i-ient-it                NULL-ient                    NULL-ient-it              NULL-ient-it-nce-nt       
+NULL-ient-it-nt           NULL-ient-it-nt-nte           NULL-ient-it-nt-nte-ntes-nts NULL-ient-it-nt-nts       NULL-ient-it-nt-teur-tion 
+NULL-ient-it-nt-tion      NULL-ient-nt                  NULL-ient-nt-tion            ble-bles-ient-it-nt       ge-ient-it-nt             
+ge-ient-nt                ient-it-nt                    ient-it-nt-nte-ntes          ient-it-nt-nte-ntes-nts   ient-it-nt-nts            
+ient-nt                   ient-nt-nte-ntes-nts          ient-tion                    
+
+ées  27
+a-able-ait-ant-e-ent-er-é-ée-ées-és a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és a-ait-ant-e-ent-er-era-é-ée-ées-és a-ait-ant-e-ent-er-es-é-ée-ées-és 
+a-ait-ant-e-ent-er-ât-é-ée-ées-és   a-ait-ant-e-ent-er-é-ée-ées-és           a-ait-ant-e-er-é-ée-ées-és          a-ait-ant-er-é-ée-ées-és           a-ait-er-é-ée-ées-és              
+a-ant-e-ent-er-es-é-ée-ées-és       a-ant-e-ent-er-é-ée-ées-és               a-ant-e-er-é-ée-ées-és              a-ant-er-é-ée-ées-és               a-e-ent-er-é-ée-ées-és            
+a-er-é-ée-ées-és                    ant-e-ent-er-é-ée-ées-és                 ant-er-é-ée-ées-és                  e-ea-eait-eant-ent-er-é-ée-ées-és  e-ent-er-é-ée-ées-és              
+e-er-é-ée-ées-és                    e-es-é-ée-ées-és                         e-es-ées                            e-ées                              ent-é-ée-ées-és                   
+er-é-ée-ées-és                      er-ées                                   
+
+0    26
+0-1                       0-1-2                     0-1-2-3-4                 0-1-2-3-4-5-6             0-1-2-4                   
+0-1-3                     0-1-4                     0-1-5                     0-2                       0-2-4                     
+0-2-7                     0-3                       0-3-5                     0-4                       0-4-5                     
+0-4-7                     0-4-8                     0-5                       0-5-8                     0-6                       
+0-6-7                     0-7                       0-7-9                     0-8                       0-9                       
+0-NULL                    
+
+6    26
+0-1-2-3-4-5-6             0-6                       0-6-7                     1-5-6                     1-6                       
+2-3-6                     2-4-6                     2-6                       3-4-6                     3-6                       
+4-5-6                     4-5-6-7                   4-6                       4-6-7                     4-6-9                     
+5-6                       5-6-7                     5-6-8                     5-6-9                     6-7                       
+6-7-8                     6-7-8-9                   6-7-9                     6-8                       6-8-9                     
+6-9                       
+
+n    26
+NULL-n                    NULL-n-nne                NULL-n-nne-nnes-ns        NULL-n-nne-nnes-ns-s      NULL-n-nne-ns             
+NULL-n-ns                 NULL-n-ns-s               NULL-n-r                  NULL-n-s                  a-n                       
+in-n                      k-n                       l-n                       la-n                      ll-n                      
+llet-n                    m-n                       n-nne-nnes-ns-r           n-r                       n-rd                      
+n-s                       n-se                      n-t                       n-u                       n-us                      
+n-wn                      
+
+2    24
+/h-2-NULL                 0-1-2                     0-1-2-3-4                 0-1-2-3-4-5-6             0-1-2-4                   
+0-2                       0-2-4                     0-2-7                     1-2                       1-2-4-5                   
+1-2-5                     1-2-7                     1-2-NULL                  2-3                       2-3-4                     
+2-3-6                     2-4                       2-4-6                     2-5                       2-6                       
+2-7                       2-8                       2-9                       2-NULL                    
+
+3    24
+0-1-2-3-4                 0-1-2-3-4-5-6             0-1-3                     0-3                       0-3-5                     
+1-3                       1-3-4                     2-3                       2-3-4                     2-3-6                     
+3-4                       3-4-5                     3-4-6                     3-4-7                     3-4-8                     
+3-5                       3-5-7                     3-6                       3-7                       3-7-8                     
+3-7-9                     3-8                       3-9                       3-NULL                    
+
+1    23
+0-1                       0-1-2                     0-1-2-3-4                 0-1-2-3-4-5-6             0-1-2-4                   
+0-1-3                     0-1-4                     0-1-5                     1-2                       1-2-4-5                   
+1-2-5                     1-2-7                     1-2-NULL                  1-3                       1-3-4                     
+1-4                       1-5                       1-5-6                     1-6                       1-7                       
+1-8                       1-9                       1-NULL                    
+
+que  23
+NULL-que                  NULL-que-ques             a-que                     c-que                     c-que-ques                
+ca-que                    cain-que                  cien-que-ques             cité-que-ques             e-es-que                  
+e-es-que-ques             e-es-que-ques-ste-stes    e-que                     e-que-ques                e-que-ques-ste-stes       
+e-que-ques-stes           ne-que                    que-ques-sme              que-ques-sme-ste-stes     que-ques-ste-stes         
+que-ques-stes             que-ques-te               que-sme                   
+
+ion  22
+NULL-ion                  NULL-ion-ions             NULL-ion-s                a-ion                     aire-ion-ions             
+e-ion                     er-ion-ions               eur-eurs-ion              eur-eurs-ion-ions         eur-eurs-ion-ions-oire    
+eur-eurs-ion-ions-rice    eur-eurs-ion-rice         eur-ion                   eur-ion-ions              eur-ion-ions-rice         
+eur-ion-rice              eurs-ion                  eurs-ion-ions             ion-ions-oire             ion-ions-rice             
+ion-oire                  ion-s                     
+
+te   21
+NULL-s-te                 NULL-s-te-tes             NULL-te                   NULL-te-tes               ce-ces-t-te-tes-ts        
+ce-ces-t-te-ts            ce-t-te                   ce-t-te-tes               ce-t-te-tes-ts            ce-t-te-ts                
+ce-te                     dre-t-te-tes-ts           e-te                      me-mes-te-tes             me-te                     
+me-te-tes                 ne-te                     que-ques-te               s-te                      se-te                     
+sme-te-tes                
+
+tion 21
+NULL-ble-bles-ient-it-nt-tion NULL-ient-it-nt-teur-tion NULL-ient-it-nt-tion      NULL-ient-nt-tion         NULL-it-nt-tion           
+NULL-nt-nts-tion              NULL-nt-teur-tion         NULL-nt-tion              NULL-teur-tion            NULL-tion                 
+ble-bles-tion                 bles-tion                 ción-tion                 ient-tion                 ire-ires-tion             
+it-nt-tion                    it-tion                   nt-nts-tion               nt-tion                   nte-tion                  
+nts-tion                      
+
+ie   20
+NULL-ie                   NULL-ie-ies               NULL-ie-ies-s             NULL-ie-s                 a-ie                      
+e-es-ie                   e-es-ie-ies               e-es-ie-ies-ique          e-es-ie-ique              e-ie                      
+e-ie-ique                 es-ie                     es-ie-ique                eute-ie                   ie-ies-y                  
+ie-ique-ue-ues            ie-s                      ie-ue                     ie-ues                    ie-y                      
+
+ons  20
+NULL-on-ons               NULL-ons                  ard-ards-on-ons           ard-ards-ons              ards-on-ons               
+ards-ons                  ble-bles-on-ons           e-es-on-ons               euse-eux-on-ons           f-fs-on-ons               
+f-fs-on-ons-ve-ves        f-fs-on-ons-ve-ves-vité   f-on-ons                  f-on-ons-ve               f-on-ons-ve-ves           
+fs-on-ons                 fs-on-ons-ve-ves          ng-on-ons                 on-ons-ve                 on-ons-ve-ves             
+
+8    19
+0-4-8                     0-5-8                     0-8                       1-8                       2-8                       
+3-4-8                     3-7-8                     3-8                       4-5-8                     4-8                       
+5-6-8                     5-8                       6-7-8                     6-7-8-9                   6-8                       
+6-8-9                     7-8                       7-8-9                     8-9                       
+
+ment 19
+NULL-e-es-ment-s          NULL-ment                 NULL-ment-nt              NULL-ment-nt-r            NULL-ment-nt-r-ra         
+NULL-ment-nt-r-rait       NULL-ment-nt-r-s          NULL-ment-nt-s            NULL-ment-r               NULL-ment-r-s             
+NULL-ment-s               NULL-ment-s-té            NULL-ment-s-ur-urs        ent-ment                  ment-nt                   
+ment-nt-r                 ment-r                    ment-s                    ment-ur                   
+
+9    18
+0-7-9                     0-9                       1-9                       2-9                       3-7-9                     
+3-9                       4-6-9                     4-9                       5-6-9                     5-7-9                     
+5-9                       6-7-8-9                   6-7-9                     6-8-9                     6-9                       
+7-8-9                     7-9                       8-9                       
+
+ii   17
+NULL-i-ii                 NULL-i-ii-iii             NULL-i-ii-v               NULL-ier-ii               NULL-ier-ii-iii           
+NULL-ier-ii-iii-iv        NULL-ii                   NULL-ii-iii               NULL-ii-ire               NULL-ii-s                 
+er-i-ii                   er-i-ii-v                 er-i-ii-v-x               er-ii                     er-ii-v                   
+i-ii-v                    ii-v                      
+
+m    17
+--NULL-m                  -v-NULL-m                 00-m                      0km2-m                    NULL-av-m                 
+NULL-km-m                 NULL-m                    NULL-m-m2                 NULL-m-mm                 g-m                       
+g-m-m/h                   g-m-m/h-m2                g-m-m2                    km-m                      km2-m                     
+m-n                       m-s                       
+
+ques 17
+NULL-que-ques             c-que-ques                cien-que-ques             cité-que-ques             e-es-que-ques             
+e-es-que-ques-ste-stes    e-es-ques                 e-que-ques                e-que-ques-ste-stes       e-que-ques-stes           
+e-ques                    que-ques-sme              que-ques-sme-ste-stes     que-ques-ste-stes         que-ques-stes             
+que-ques-te               ques-sme                  
+
+o    16
+NULL-a-o                  NULL-e-o                  NULL-i-o                  NULL-o                    a-as-o                    
+a-o                       an-o                      e-es-o                    e-o                       i-o                       
+ino-o                     o-s                       o-u                       o-ue                      o-um                      
+o-us                      
+
+ur   16
+NULL-ment-s-ur-urs        NULL-nt-r-ra-ur-urs       NULL-nt-r-s-ur-urs        NULL-nt-r-ur              NULL-nt-r-ur-urs          
+NULL-nt-ur-urs            NULL-r-s-ur-urs           NULL-r-ur                 NULL-s-ur                 NULL-s-ur-urs             
+NULL-ur                   NULL-ur-urs               ment-ur                   nt-ur-urs                 r-ur                      
+r-ur-urs                  
+
+ique 15
+NULL-ique                 NULL-ique-s               a-ique                    ate-ique                  ates-ique                 
+e-es-ie-ies-ique          e-es-ie-ique              e-es-ique                 e-es-ique-isme            e-ie-ique                 
+e-ique                    es-ie-ique                es-ique                   ie-ique-ue-ues            ique-s                    
+
+ne   14
+NULL-ne                   NULL-ne-nes               NULL-ne-nes-s             NULL-ne-s                 a-ne                      
+de-ne                     dra-ne-nent-t             e-ne                      ne-nent-t                 ne-nes-s                  
+ne-que                    ne-s                      ne-t                      ne-te                     
+
+se   14
+NULL-sait-sant-se-sent    NULL-sait-sant-se-sent-seur NULL-se                   NULL-se-ses               n-se                      
+r-rs-se                   r-rs-se-ses                 r-se                      rent-s-se-ses-t           se-ses-x                  
+se-te                     se-x                        se-ze                     se-ïde                    
+
+urs  14
+NULL-ment-s-ur-urs        NULL-nt-r-ra-ur-urs       NULL-nt-r-s-ur-urs        NULL-nt-r-ur-urs          NULL-nt-r-urs             
+NULL-nt-ur-urs            NULL-r-s-ur-urs           NULL-r-urs                NULL-s-ur-urs             NULL-ur-urs               
+NULL-urs                  nt-ur-urs                 r-ur-urs                  r-urs                     
+
+ce   13
+ce-ces-t                  ce-ces-t-te-tes-ts        ce-ces-t-te-ts            ce-ces-t-tes-ts           ce-ces-t-ts               
+ce-t                      ce-t-te                   ce-t-te-tes               ce-t-te-tes-ts            ce-t-te-ts                
+ce-t-ts                   ce-te                     ce-ts                     
+
+f    13
+NULL-f                    f-fs-on-ons               f-fs-on-ons-ve-ves        f-fs-on-ons-ve-ves-vité   f-fs-on-ve-ves            
+f-fs-ve-ves               f-on                      f-on-ons                  f-on-ons-ve               f-on-ons-ve-ves           
+f-on-ve                   f-ve                      f-ve-ves                  
+
+ge   13
+NULL-ge                   NULL-ge-ges               NULL-ge-ges-ient-it-nt    NULL-ge-ges-nt            NULL-ge-ient-it-nt        
+NULL-ge-it-nt             NULL-ge-nt                ge-ges-nt                 ge-ient-it-nt             ge-ient-nt                
+ge-it-nt                  ge-nt                     ge-x                      
+
+l    13
+NULL-l                    NULL-l-le-les-ux          NULL-l-s                  d-l                       e-l                       
+l-le-les-lité-ux          l-le-les-ux               l-le-ux                   l-n                       l-r                       
+l-s                       l-ux                      l-ïque                    
+
+tes  13
+NULL-s-te-tes             NULL-te-tes               NULL-tes                  ce-ces-t-te-tes-ts        ce-ces-t-tes-ts           
+ce-t-te-tes               ce-t-te-tes-ts            cées-tes                  dre-t-te-tes-ts           me-mes-te-tes             
+me-te-tes                 me-tes                    sme-te-tes                
+
+ts   13
+NULL-s-t-ts               NULL-t-ts                 NULL-ts                   ce-ces-t-te-tes-ts        ce-ces-t-te-ts            
+ce-ces-t-tes-ts           ce-ces-t-ts               ce-t-te-tes-ts            ce-t-te-ts                ce-t-ts                   
+ce-ts                     dre-t-te-tes-ts           s-ts                      
+
+us   13
+NULL-a-us                 NULL-s-us                 NULL-us                   a-um-us                   a-us                      
+e-es-us                   e-us                      i-us                      idés-us                   n-us                      
+o-us                      ous-us                    s-us                      
+
+ux   13
+NULL-l-le-les-ux          NULL-s-use-uses-ux        NULL-s-use-ux             NULL-s-ux                 NULL-use-uses-ux          
+NULL-ux                   l-le-les-lité-ux          l-le-les-ux               l-le-ux                   l-ux                      
+le-les-ux                 le-ux                     les-ux                    
+
+v    13
+NULL-i-ii-v               NULL-v                    er-i-ii-v                 er-i-ii-v-x               er-i-v                    
+er-ii-v                   ff-v                      i-ii-v                    ii-v                      nres-v                    
+ns-pr-v                   ns-v                      pr-v                      
+
+ve   13
+f-fs-on-ons-ve-ves        f-fs-on-ons-ve-ves-vité   f-fs-on-ve-ves            f-fs-ve-ves               f-on-ons-ve               
+f-on-ons-ve-ves           f-on-ve                   f-ve                      f-ve-ves                  fs-on-ons-ve-ves          
+on-ons-ve                 on-ons-ve-ves             on-ve                     
+
+eur  12
+age-eur                   eur-eurs-ion              eur-eurs-ion-ions         eur-eurs-ion-ions-oire    eur-eurs-ion-ions-rice    
+eur-eurs-ion-rice         eur-eurs-rice             eur-ion                   eur-ion-ions              eur-ion-ions-rice         
+eur-ion-rice              eur-ure                   
+
+ier  12
+NULL-ier                  NULL-ier-ii               NULL-ier-ii-iii           NULL-ier-ii-iii-iv        NULL-ier-iii              
+NULL-ier-s                e-es-ier                  e-es-ier-iers             e-es-ier-iers-ière        e-ier                     
+er-ier                    erie-ier-iers             
+
+ions 12
+NULL-ion-ions             NULL-ions                 aire-ion-ions             er-ion-ions               eur-eurs-ion-ions         
+eur-eurs-ion-ions-oire    eur-eurs-ion-ions-rice    eur-ion-ions              eur-ion-ions-rice         eurs-ion-ions             
+ion-ions-oire             ion-ions-rice             
+
+le   12
+NULL-l-le-les-ux          NULL-le                   NULL-le-les               NULL-le-les-s             NULL-le-s                 
+l-le-les-lité-ux          l-le-les-ux               l-le-ux                   le-les-s                  le-les-ux                 
+le-s                      le-ux                     
+
+les  12
+NULL-l-le-les-ux          NULL-le-les               NULL-le-les-s             NULL-les                  NULL-les-s                
+cées-les                  l-le-les-lité-ux          l-le-les-ux               le-les-s                  le-les-ux                 
+les-s                     les-ux                    
+
+ns   12
+NULL-n-nne-nnes-ns        NULL-n-nne-nnes-ns-s      NULL-n-nne-ns             NULL-n-ns                 NULL-n-ns-s               
+NULL-nne-ns               NULL-ns                   NULL-ns-s                 n-nne-nnes-ns-r           ns-pr-v                   
+ns-r                      ns-v                      
+
+sme  12
+e-sme                     en-enne-ens-sme           on-sme                    que-ques-sme              que-ques-sme-ste-stes     
+que-sme                   ques-sme                  sme-ste-stes-té           sme-ste-stes-té-tés       sme-ste-té                
+sme-te-tes                sme-té                    
+
+nts  11
+NULL-ient-it-nt-nte-ntes-nts NULL-ient-it-nt-nts       NULL-nt-nte-ntes-nts      NULL-nt-nts               NULL-nt-nts-tion          
+ient-it-nt-nte-ntes-nts      ient-it-nt-nts            ient-nt-nte-ntes-nts      it-nt-nts                 nt-nts-tion               
+nts-tion                     
+
+ra   11
+NULL-ment-nt-r-ra         NULL-nt-r-ra              NULL-nt-r-ra-rait         NULL-nt-r-ra-rait-ront    NULL-nt-r-ra-ront         
+NULL-nt-r-ra-s            NULL-nt-r-ra-ur-urs       NULL-nt-ra                NULL-nt-ra-rait           NULL-r-ra                 
+NULL-ra                   
+
+isme 10
+NULL-e-es-isme-iste       NULL-isme                 NULL-isme-iste            NULL-isme-s               e-es-ique-isme            
+e-es-isme                 e-es-isme-iste            e-isme                    e-isme-iste               es-isme                   
+
+té   10
+NULL-ment-s-té            NULL-s-té                 NULL-té                   s-té                      ser-té                    
+sme-ste-stes-té           sme-ste-stes-té-tés       sme-ste-té                sme-té                    té-tés-x                  
+
+y    10
+NULL-s-y                  NULL-y                    a-y                       i-y                       ie-ies-y                  
+ie-y                      ies-y                     r-y                       y-é                       y-é-és                    
+
+en   9
+NULL-en                   NULL-en-enne              NULL-en-enne-ens          a-e-en-enne-ens           a-en                      
+an-en                     en-enne-ens-sme           en-on                     en-s                      
+
+eurs 9
+eur-eurs-ion              eur-eurs-ion-ions         eur-eurs-ion-ions-oire    eur-eurs-ion-ions-rice    eur-eurs-ion-rice         
+eur-eurs-rice             eurs-ion                  eurs-ion-ions             eurs-ure                  
+
+g    9
+'-g                       NULL-g                    e-g                       g-m                       g-m-m/h                   
+g-m-m/h-m2                g-m-m2                    g-m2                      g-t                       
+
+ire  9
+NULL-ii-ire               NULL-ire                  NULL-ire-ires             ctif-ire-isit-it-ite-ites-its ire-ires-r                
+ire-ires-rité             ire-ires-ry               ire-ires-tion             ire-ria                       
+
+iste 9
+NULL-e-es-isme-iste       NULL-e-es-iste            NULL-isme-iste            NULL-iste                 NULL-iste-s               
+e-es-isme-iste            e-es-iste                 e-isme-iste               e-iste                    
+
+nte  9
+NULL-ient-it-nt-nte       NULL-ient-it-nt-nte-ntes-nts NULL-nt-nte               NULL-nt-nte-ntes-nts      NULL-nte                  
+ient-it-nt-nte-ntes       ient-it-nt-nte-ntes-nts      ient-nt-nte-ntes-nts      nte-tion                  
+
+rait 9
+NULL-ment-nt-r-rait       NULL-nt-r-ra-rait         NULL-nt-r-ra-rait-ront    NULL-nt-r-rait            NULL-nt-r-rait-ront       
+NULL-nt-r-rait-s          NULL-nt-ra-rait           NULL-nt-rait              NULL-r-rait               
+
+rs   9
+NULL-r-rs                 NULL-r-rs-s               NULL-rs                   i-rs                      r-rs-s                    
+r-rs-se                   r-rs-se-ses               r-rs-ses                  rs-ses                    
+
+ste  9
+e-es-que-ques-ste-stes    e-que-ques-ste-stes       e-ste                     que-ques-sme-ste-stes     que-ques-ste-stes         
+re-ste                    sme-ste-stes-té           sme-ste-stes-té-tés       sme-ste-té                
+
+x    9
+NULL-s-x                  NULL-x                    d-x                       er-i-ii-v-x               ge-x                      
+se-ses-x                  se-x                      ses-x                     té-tés-x                  
+
+iens 8
+NULL-ien-iens             NULL-iens                 a-ien-iens                e-es-ien-iens             e-es-iens                 
+e-ien-iens                e-iens                    es-iens                   
+
+ité  8
+NULL-e-es-ité             NULL-e-es-ité-s           NULL-e-ité                NULL-ité                  e-es-ité                  
+e-es-ité-ités             e-ité                     es-ité                    
+
+ont  8
+NULL-a-ait-ent-ont        NULL-a-ait-ont            NULL-a-ont                NULL-ait-ont              NULL-ont                  
+a-ait-e-ont               a-ait-ont                 a-e-ont                   
+
+ses  8
+NULL-se-ses               NULL-ses                  r-rs-se-ses               r-rs-ses                  rent-s-se-ses-t           
+rs-ses                    se-ses-x                  ses-x                     
+
+stes 8
+e-es-que-ques-ste-stes    e-que-ques-ste-stes       e-que-ques-stes           que-ques-sme-ste-stes     que-ques-ste-stes         
+que-ques-stes             sme-ste-stes-té           sme-ste-stes-té-tés       
+
+ves  8
+f-fs-on-ons-ve-ves        f-fs-on-ons-ve-ves-vité   f-fs-on-ve-ves            f-fs-ve-ves               f-on-ons-ve-ves           
+f-ve-ves                  fs-on-ons-ve-ves          on-ons-ve-ves             
+
+age  7
+NULL-age                  age-e                     age-e-er-es               age-e-es                  age-er                    
+age-eur                   age-é                     
+
+bles 7
+NULL-ble-bles-ient-it-nt  NULL-ble-bles-ient-it-nt-tion NULL-bles-ient-it-nt      ble-bles-ient-it-nt       ble-bles-on-ons           
+ble-bles-tion             bles-tion                     
+
+d    7
+NULL-d                    NULL-d-s                  d-l                       d-r                       d-s                       
+d-t                       d-x                       
+
+fs   7
+f-fs-on-ons               f-fs-on-ons-ve-ves        f-fs-on-ons-ve-ves-vité   f-fs-on-ve-ves            f-fs-ve-ves               
+fs-on-ons                 fs-on-ons-ve-ves          
+
+iii  7
+NULL-i-ii-iii             NULL-i-iii                NULL-ier-ii-iii           NULL-ier-ii-iii-iv        NULL-ier-iii              
+NULL-ii-iii               NULL-iii                  
+
+nne  7
+NULL-n-nne                NULL-n-nne-nnes-ns        NULL-n-nne-nnes-ns-s      NULL-n-nne-ns             NULL-nne                  
+NULL-nne-ns               n-nne-nnes-ns-r           
+
+as   6
+NULL-a-as                 NULL-as                   a-as-e                    a-as-o                    as-e                      
+as-es                     
+
+ble  6
+NULL-ble-bles-ient-it-nt  NULL-ble-bles-ient-it-nt-tion NULL-ble-ient-it-nt       ble-bles-ient-it-nt       ble-bles-on-ons           
+ble-bles-tion             
+
+c    6
+NULL-c                    NULL-c-s                  a-c                       c-que                     c-que-ques                
+c-s                       
+
+ien  6
+NULL-ien                  NULL-ien-iens             a-ien-iens                e-es-ien-iens             e-ien                     
+e-ien-iens                
+
+ies  6
+NULL-ie-ies               NULL-ie-ies-s             e-es-ie-ies               e-es-ie-ies-ique          ie-ies-y                  
+ies-y                     
+
+nes  6
+NULL-ne-nes               NULL-ne-nes-s             NULL-nes                  NULL-nes-s                ne-nes-s                  
+nes-s                     
+
+re   6
+NULL-re                   ent-re-res-t              er-re                     er-re-res                 i-re                      
+re-ste                    
+
+rent 6
+NULL-e-es-r-rent-s-t      NULL-e-es-rent-s-t        NULL-rent-t               r-rent-t                  rent-s-se-ses-t           
+rent-t                    
+
+rice 6
+eur-eurs-ion-ions-rice    eur-eurs-ion-rice         eur-eurs-rice             eur-ion-ions-rice         eur-ion-rice              
+ion-ions-rice             
+
+um   6
+NULL-um                   a-um                      a-um-us                   e-es-um                   e-um                      
+o-um                      
+
+aire 5
+NULL-aire-s               aire-e                    aire-e-es                 aire-ion-ions             aire-é-és                 
+
+al   5
+NULL-al                   NULL-al-ale-ales-aux-s    al-ale-ales-aux-e-es      al-e                      al-ille                   
+
+an   5
+NULL-an                   an-en                     an-i                      an-o                      an-án                     
+
+ces  5
+ce-ces-t                  ce-ces-t-te-tes-ts        ce-ces-t-te-ts            ce-ces-t-tes-ts           ce-ces-t-ts               
+
+enne 5
+NULL-en-enne              NULL-en-enne-ens          a-e-en-enne-ens           en-enne-ens-sme           enne-ent-nt               
+
+ens  5
+NULL-en-enne-ens          NULL-ens                  a-e-en-enne-ens           dés-ens                   en-enne-ens-sme           
+
+ers  5
+NULL-er-ers               NULL-ers                  er-ers-ère                er-ers-ère-ères           er-ers-ères               
+
+ges  5
+NULL-ge-ges               NULL-ge-ges-ient-it-nt    NULL-ge-ges-nt            ge-ges-nt                 ges-in                    
+
+idés 5
+NULL-idés                 a-idés                    e-es-idés                 es-idés                   idés-us                   
+
+iers 5
+e-es-ier-iers             e-es-ier-iers-ière        e-es-iers                 e-iers                    erie-ier-iers             
+
+ires 5
+NULL-ire-ires             ire-ires-r                ire-ires-rité             ire-ires-ry               ire-ires-tion             
+
+is   5
+NULL-e-es-is              NULL-is                   NULL-is-s                 e-es-is                   e-is                      
+
+me   5
+NULL-me                   me-mes-te-tes             me-te                     me-te-tes                 me-tes                    
+
+ntes 5
+NULL-ient-it-nt-nte-ntes-nts NULL-nt-nte-ntes-nts      ient-it-nt-nte-ntes       ient-it-nt-nte-ntes-nts   ient-nt-nte-ntes-nts      
+
+os   5
+NULL-os                   a-os                      e-es-os                   e-os                      i-os                      
+
+sant 5
+NULL-sait-sant-se-sent    NULL-sait-sant-se-sent-seur NULL-sait-sant-sent       NULL-sant                 NULL-sant-sent            
+
+z    5
+NULL-nt-r-z               NULL-z                    a-z                       r-z                       s-z                       
+
+ère  5
+er-ers-ère                er-ers-ère-ères           er-ère                    er-ère-ères               ère-éra-érer-éré-érée-érés 
+
+ards 4
+ard-ards-on-ons           ard-ards-ons              ards-on-ons               ards-ons                  
+
+aux  4
+NULL-al-ale-ales-aux-s    NULL-au-aux-s             al-ale-ales-aux-e-es      aux-s                     
+
+cées 4
+NULL-cées                 NULL-cées-s               cées-les                  cées-tes                  
+
+de   4
+NULL-de                   NULL-de-des               de-ne                     de-s                      
+
+ia   4
+NULL-ia                   a-ia                      e-es-ia                   e-ia                      
+
+in   4
+NULL-in                   e-in                      ges-in                    in-n                      
+
+ite  4
+NULL-ite                  NULL-ite-ites             ctif-ire-isit-it-ite-ites-its e-ite                     
+
+k    4
+NULL-k                    ck-k                      h-k                       k-n                       
+
+m2   4
+NULL-m-m2                 g-m-m/h-m2                g-m-m2                    g-m2                      
+
+nnes 4
+NULL-n-nne-nnes-ns        NULL-n-nne-nnes-ns-s      NULL-nnes                 n-nne-nnes-ns-r           
+
+ront 4
+NULL-nt-r-ra-rait-ront    NULL-nt-r-ra-ront         NULL-nt-r-rait-ront       NULL-nt-r-ront            
+
+sent 4
+NULL-sait-sant-se-sent    NULL-sait-sant-se-sent-seur NULL-sait-sant-sent       NULL-sant-sent            
+
+sse  4
+NULL-s-sse                NULL-s-sse-sses           NULL-sse                  sse-t                     
+
+u    4
+NULL-u                    i-u                       n-u                       o-u                       
+
+ure  4
+NULL-ure-ures             e-ure                     eur-ure                   eurs-ure                  
+
+use  4
+NULL-s-use-uses-ux        NULL-s-use-ux             NULL-use                  NULL-use-uses-ux          
+
+'s   3
+'s-NULL                   's-NULL-s                 's-s                      
+
+0km2 3
+0km2-NULL                 0km2-km2                  0km2-m                    
+
+ais  3
+NULL-ais                  NULL-ais-aise             ais-e                     
+
+ard  3
+NULL-ard                  ard-ards-on-ons           ard-ards-ons              
+
+av   3
+NULL-av                   NULL-av-m                 NULL-av-s                 
+
+dés  3
+dés-ens                   dés-nés                   dés-s                     
+
+h    3
+NULL-h                    h-k                       h-s                       
+
+il   3
+elle-il                   elle-il-on                il-on                     
+
+ing  3
+NULL-ing                  NULL-ing-s                er-ing                    
+
+ites 3
+NULL-ite-ites             NULL-ites                 ctif-ire-isit-it-ite-ites-its 
+
+km   3
+NULL-km                   NULL-km-m                 km-m                      
+
+km2  3
+0km2-km2                  NULL-km2                  km2-m                     
+
+la   3
+NULL-la                   a-la                      la-n                      
+
+na   3
+NULL-na                   a-na                      itch-na                   
+
+nent 3
+dra-ne-nent-t             ne-nent-t                 nent-t                    
+
+oire 3
+eur-eurs-ion-ions-oire    ion-ions-oire             ion-oire                  
+
+rie  3
+NULL-rie                  NULL-rie-ries-s           NULL-rie-s                
+
+sait 3
+NULL-sait-sant-se-sent    NULL-sait-sant-se-sent-seur NULL-sait-sant-sent       
+
+son  3
+NULL-son                  ent-son-sons-t            on-son                    
+
+teur 3
+NULL-ient-it-nt-teur-tion NULL-nt-teur-tion         NULL-teur-tion            
+
+tte  3
+NULL-s-tte                NULL-s-tte-ttes           NULL-tte                  
+
+ue   3
+ie-ique-ue-ues            ie-ue                     o-ue                      
+
+uses 3
+NULL-s-use-uses-ux        NULL-s-uses               NULL-use-uses-ux          
+
+ères 3
+er-ers-ère-ères           er-ers-ères               er-ère-ères               
+
+'    2
+'-NULL                    '-g                       
+
+-    2
+--NULL                    --NULL-m                  
+
+-il  2
+-il--on-NULL              -il-NULL                  
+
+-on  2
+-il--on-NULL              -on-NULL                  
+
+-v   2
+-v-NULL                   -v-NULL-m                 
+
+/h   2
+/h-2-NULL                 /h-NULL                   
+
+ale  2
+NULL-al-ale-ales-aux-s    al-ale-ales-aux-e-es      
+
+ales 2
+NULL-al-ale-ales-aux-s    al-ale-ales-aux-e-es      
+
+ants 2
+a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és a-ait-ant-ants-e-ent-er-é-ée-ées-és 
+
+au   2
+NULL-au                   NULL-au-aux-s             
+
+ca   2
+ca-que                    ca-s                      
+
+ch   2
+NULL-ch                   ch-tch                    
+
+des  2
+NULL-de-des               des-s                     
+
+elle 2
+elle-il                   elle-il-on                
+
+era  2
+a-ait-ant-e-ent-er-era    a-ait-ant-e-ent-er-era-é-ée-ées-és 
+
+euse 2
+NULL-euse-eux-s           euse-eux-on-ons           
+
+eux  2
+NULL-euse-eux-s           euse-eux-on-ons           
+
+ey   2
+NULL-ey                   ay-ey                     
+
+ha   2
+NULL-ha                   a-ha                      
+
+ieux 2
+e-es-ieux                 e-ieux                    
+
+ille 2
+NULL-ille                 al-ille                   
+
+ine  2
+NULL-ine                  a-ine                     
+
+itch 2
+NULL-itch                 itch-na                   
+
+ium  2
+NULL-ium                  e-ium                     
+
+ius  2
+NULL-ius                  e-ius                     
+
+iv   2
+NULL-ier-ii-iii-iv        NULL-iv                   
+
+ième 2
+NULL-ième                 e-ième                    
+
+ière 2
+e-es-ier-iers-ière        e-es-ière                 
+
+lle  2
+NULL-lle                  NULL-lle-s                
+
+m/h  2
+g-m-m/h                   g-m-m/h-m2                
+
+mm   2
+NULL-m-mm                 NULL-mm                   
+
+nce  2
+NULL-ient-it-nce-nt       nce-nces-r                
+
+nels 2
+NULL-nel-nels-s           NULL-nels-s               
+
+ner  2
+NULL-ner                  NULL-ner-s                
+
+ng   2
+NULL-ng                   ng-on-ons                 
+
+ois  2
+NULL-ois                  e-ois                     
+
+pr   2
+ns-pr-v                   pr-v                      
+
+rd   2
+NULL-rd                   n-rd                      
+
+res  2
+ent-re-res-t              er-re-res                 
+
+ries 2
+NULL-rie-ries-s           NULL-ries-s               
+
+sa   2
+NULL-s-sa                 NULL-sa                   
+
+ton  2
+NULL-s-ton                NULL-ton                  
+
+ttes 2
+NULL-s-tte-ttes           NULL-s-ttes               
+
+tés  2
+sme-ste-stes-té-tés       té-tés-x                  
+
+ues  2
+ie-ique-ue-ues            ie-ues                    
+
+urg  2
+erg-urg                   ourg-urg                  
+
+vité 2
+f-fs-on-ons-ve-ves-vité   on-vité                   
+
+ya   2
+NULL-ya                   a-ya                      
+
+-ils 1
+-ils-NULL                 
+
+-or  1
+-or-NULL                  
+
+-sud 1
+-sud-NULL                 
+
+-é   1
+-é-NULL                   
+
+/an  1
+/an-NULL                  
+
+/km2 1
+/km2-NULL                 
+
+/s   1
+/s-NULL                   
+
+00   1
+00-m                      
+
+0km  1
+0km-NULL                  
+
+3/s  1
+3/s-NULL                  
+
+]    1
+NULL-]                    
+
+abad 1
+NULL-abad                 
+
+able 1
+a-able-ait-ant-e-ent-er-é-ée-ées-és 
+
+aise 1
+NULL-ais-aise             
+
+ana  1
+NULL-ana                  
+
+ance 1
+ance-er                   
+
+ans  1
+NULL-ans                  
+
+ante 1
+a-ait-ant-ante-ants-e-ent-er-é-ée-ées-és 
+
+apr  1
+NULL-apr                  
+
+ar   1
+NULL-ar                   
+
+at   1
+NULL-at                   
+
+ate  1
+ate-ique                  
+
+ates 1
+ates-ique                 
+
+ay   1
+ay-ey                     
+
+ays  1
+NULL-ays                  
+
+b    1
+NULL-b                    
+
+berg 1
+NULL-berg                 
+
+burg 1
+NULL-burg                 
+
+cain 1
+cain-que                  
+
+ci   1
+ci-là                     
+
+cien 1
+cien-que-ques             
+
+cinq 1
+cinq-deux-huit-neuf-sept-six 
+
+cité 1
+cité-que-ques             
+
+ción 1
+ción-tion                 
+
+ck   1
+ck-k                      
+
+co   1
+NULL-co                   
+
+ctif 1
+ctif-ire-isit-it-ite-ites-its 
+
+deux 1
+cinq-deux-huit-neuf-sept-six 
+
+do   1
+NULL-do                   
+
+dra  1
+dra-ne-nent-t             
+
+dre  1
+dre-t-te-tes-ts           
+
+ea   1
+e-ea-eait-eant-ent-er-é-ée-ées-és 
+
+eait 1
+e-ea-eait-eant-ent-er-é-ée-ées-és 
+
+eant 1
+e-ea-eait-eant-ent-er-é-ée-ées-és 
+
+eau  1
+NULL-eau                  
+
+el   1
+NULL-el                   
+
+ept  1
+ept-ix                    
+
+erg  1
+erg-urg                   
+
+erie 1
+erie-ier-iers             
+
+et   1
+NULL-et                   
+
+ette 1
+NULL-ette                 
+
+eute 1
+eute-ie                   
+
+ev   1
+NULL-ev                   
+
+ff   1
+ff-v                      
+
+ham  1
+NULL-ham                  
+
+heim 1
+NULL-heim                 
+
+hip  1
+NULL-hip                  
+
+huit 1
+cinq-deux-huit-neuf-sept-six 
+
+ian  1
+NULL-ian                  
+
+iat  1
+e-es-iat                  
+
+ide  1
+NULL-ide                  
+
+ides 1
+NULL-ides                 
+
+ik   1
+a-ik                      
+
+ines 1
+e-ines                    
+
+ino  1
+ino-o                     
+
+io   1
+e-io                      
+
+ios  1
+NULL-ios                  
+
+ise  1
+NULL-ise                  
+
+isit 1
+ctif-ire-isit-it-ite-ites-its 
+
+ita  1
+a-ita                     
+
+its  1
+ctif-ire-isit-it-ite-ites-its 
+
+ités 1
+e-es-ité-ités             
+
+ix   1
+ept-ix                    
+
+j    1
+NULL-j                    
+
+ja   1
+NULL-ja                   
+
+ka   1
+NULL-ka                   
+
+land 1
+NULL-land                 
+
+ler  1
+er-ler                    
+
+ley  1
+NULL-ley                  
+
+li   1
+NULL-li                   
+
+lin  1
+NULL-lin                  
+
+lite 1
+NULL-lite                 
+
+lité 1
+l-le-les-lité-ux          
+
+ll   1
+ll-n                      
+
+llet 1
+llet-n                    
+
+lo   1
+NULL-lo                   
+
+lt   1
+lt-t                      
+
+lus  1
+lus-s                     
+
+ly   1
+NULL-ly                   
+
+là   1
+ci-là                     
+
+ma   1
+NULL-ma                   
+
+mai  1
+NULL-mai                  
+
+man  1
+NULL-man                  
+
+mann 1
+NULL-mann                 
+
+mes  1
+me-mes-te-tes             
+
+mte  1
+mte-rps                   
+
+nais 1
+NULL-nais                 
+
+nces 1
+nce-nces-r                
+
+nd   1
+NULL-nd                   
+
+nel  1
+NULL-nel-nels-s           
+
+neuf 1
+cinq-deux-huit-neuf-sept-six 
+
+ni   1
+NULL-ni                   
+
+nier 1
+NULL-nier-s               
+
+no   1
+NULL-no                   
+
+nord 1
+nord-sud                  
+
+nres 1
+nres-v                    
+
+nus  1
+NULL-nus                  
+
+né   1
+NULL-né-s                 
+
+nées 1
+nées-s                    
+
+nés  1
+dés-nés                   
+
+ose  1
+a-ose                     
+
+ot   1
+NULL-ot                   
+
+ou   1
+NULL-ou                   
+
+ourg 1
+ourg-urg                  
+
+ous  1
+ous-us                    
+
+ov   1
+NULL-ov                   
+
+pur  1
+NULL-pur                  
+
+ri   1
+NULL-ri                   
+
+ria  1
+ire-ria                   
+
+ril  1
+NULL-ril                  
+
+ris  1
+NULL-ris                  
+
+rité 1
+ire-ires-rité             
+
+rius 1
+NULL-rius                 
+
+rps  1
+mte-rps                   
+
+rt   1
+NULL-rt                   
+
+ry   1
+ire-ires-ry               
+
+sage 1
+NULL-sage                 
+
+sen  1
+NULL-sen                  
+
+sept 1
+cinq-deux-huit-neuf-sept-six 
+
+ser  1
+ser-té                    
+
+seur 1
+NULL-sait-sant-se-sent-seur 
+
+side 1
+NULL-side                 
+
+sion 1
+NULL-e-es-sion            
+
+six  1
+cinq-deux-huit-neuf-sept-six 
+
+sk   1
+NULL-sk                   
+
+ski  1
+NULL-ski                  
+
+sons 1
+ent-son-sons-t            
+
+sque 1
+NULL-sque                 
+
+sses 1
+NULL-s-sse-sses           
+
+sson 1
+NULL-sson                 
+
+sud  1
+nord-sud                  
+
+t-il 1
+ent-t-t-il                
+
+ta   1
+NULL-ta                   
+
+tan  1
+NULL-tan                  
+
+tch  1
+ch-tch                    
+
+ter  1
+NULL-ter                  
+
+th   1
+NULL-th                   
+
+ti   1
+NULL-ti                   
+
+to   1
+NULL-to                   
+
+tone 1
+NULL-tone                 
+
+umes 1
+NULL-umes                 
+
+ures 1
+NULL-ure-ures             
+
+utes 1
+NULL-utes                 
+
+w    1
+NULL-w                    
+
+wald 1
+NULL-wald                 
+
+wn   1
+n-wn                      
+
+wood 1
+NULL-wood                 
+
+ze   1
+se-ze                     
+
+»    1
+NULL-»                    
+
+án   1
+an-án                     
+
+ât   1
+a-ait-ant-e-ent-er-ât-é-ée-ées-és 
+
+éra  1
+ère-éra-érer-éré-érée-érés 
+
+érer 1
+ère-éra-érer-éré-érée-érés 
+
+éré  1
+ère-éra-érer-éré-érée-érés 
+
+érée 1
+ère-éra-érer-éré-érée-érés 
+
+érés 1
+ère-éra-érer-éré-érée-érés 
+
+ï    1
+i-ï                       
+
+ïde  1
+se-ïde                    
+
+ïque 1
+l-ïque                    
+
+ón   1
+on-ón                     
+
